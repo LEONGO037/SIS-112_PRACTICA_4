@@ -9,10 +9,10 @@
 #include <iostream>
 #include <vector>
 using namespace std;
-// Función para ingresar las calificaciones
+// Funcion para ingresar las calificaciones
 vector<int> ingresarCalificaciones(int N);
 int main()
- {
+{
     int N;
     cout << "Ingrese el numero de calificaciones: ";
     cin >> N;
