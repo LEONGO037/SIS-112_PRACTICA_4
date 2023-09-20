@@ -6,7 +6,7 @@
 // Problema planteado: Lee por teclado un año y calcula y muestra si es bisiesto
 #include <iostream>
 using namespace std;
-// Función para determinar si un año es bisiesto
+// Funcion para determinar si un anio es bisiesto
 bool esBisiesto(int year);
 int main()
 {
