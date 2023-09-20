@@ -6,7 +6,7 @@
 // Problema planteado: Lee por teclado la fecha actual y la fecha de nacimiento de una persona y calcula su edad
 #include <iostream>
 using namespace std;
-// Función para calcular la edad a partir de la fecha de nacimiento y la fecha actual
+// Funcion para calcular la edad a partir de la fecha de nacimiento y la fecha actual
 int calcularEdad(int anioNacimiento, int mesNacimiento, int diaNacimiento, int anioActual, int mesActual, int diaActual);
 int main()
 {
