@@ -9,7 +9,7 @@
 // si excede la hora se cobra por la hora siguiente.
 #include <iostream>
 using namespace std;
-// Función para calcular el pago por el servicio de estacionamiento
+// Funcion para calcular el pago por el servicio de estacionamiento
 int calcularPagoEstacionamiento(int horaEntrada, int minutoEntrada, int horaSalida, int minutoSalida);
 int main()
 {
