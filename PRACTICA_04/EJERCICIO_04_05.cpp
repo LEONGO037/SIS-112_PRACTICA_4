@@ -10,7 +10,7 @@
 #include <string>
 #include <vector>
 using namespace std;
-// Definición de la estructura para representar una materia y sus notas de periodo
+// Definicion de la estructura para representar una materia y sus notas de periodo
 struct Materia {
     string nombre;
     int paralelo;
@@ -21,7 +21,7 @@ struct Materia {
     float notaFinal;
     bool aprobado;
 };
-// Función para calcular la nota de habilitacion
+// Funcion para calcular la nota de habilitacion
 void calcularNotaFinal(Materia &materia);
 // Funcion que calcula si aprobo o no
 void Aprobado(Materia &materia);
