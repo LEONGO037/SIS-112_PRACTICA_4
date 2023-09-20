@@ -3,11 +3,13 @@
 // Fecha creacion: 20/09/2023
 // Fecha modificacion: 20/09/2023
 // Numero de ejericio: 3
-// Problema planteado: Lee por teclado la fecha actual y la fecha de nacimiento de una persona y calcula su edad
+// Problema planteado: Leer los datos de doce personas como son: nombre, edad, estatura, peso, posteriormente
+// indicar cuál es el nombre de la persona de menor edad, el promedio de las estaturas y el
+// de los pesos. (realizar con estructuras)
 #include <iostream>
 #include <string>
 using namespace std;
-// Definición de la estructura para representar a una persona
+// Definicion de la estructura para representar a una persona
 struct Persona
 {
     string nombre;
