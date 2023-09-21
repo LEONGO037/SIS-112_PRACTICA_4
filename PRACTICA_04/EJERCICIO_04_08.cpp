@@ -2,7 +2,7 @@
 // Autor: Leonardo Delgado Medrano
 // Fecha creacion: 20/09/2023
 // Fecha modificacion: 20/09/2023
-// Numero de ejericio: 7
+// Numero de ejericio: 8
 // Problema planteado: En una fábrica de computadoras se planea ofrecer a los clientes un descuento que
 // dependerá del número de computadoras que compre. Si las computadoras son menos de
 // cinco se les dará un 10% de descuento sobre el total de la compra; si el número de
